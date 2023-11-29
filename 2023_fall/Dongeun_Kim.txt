@@ -1,0 +1,3 @@
+Kidney disease, a leading cause of death in the United States, requires frequent hemodialysis, impacting patients' quality of life, in areas with limited dialysis center accessibility. To address this, the program utilizes the Gaussian 2-Step Floating Catchment Area (2SFCA) method to assess and automate the calculation of dialysis center accessibility, providing valuable insights into spatial disparities.
+
+https://github.com/Dongeun-0828/giscX317-lab12.git 
